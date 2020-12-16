@@ -8,6 +8,6 @@ odoo_version: 14.0
 rebel_module_groups: []
 repo_description: null
 repo_name: Tools to upgrade Odoo instances from a major version to another
-repo_slug: openupgrade-framework
+repo_slug: openupgrade
 travis_apt_packages: []
 travis_apt_sources: []
